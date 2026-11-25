@@ -1,0 +1,8 @@
+{
+  "name": "sema-nasi",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "ai": "^7.0.1"
+  }
+}
